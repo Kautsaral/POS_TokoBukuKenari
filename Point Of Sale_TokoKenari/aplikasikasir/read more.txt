@@ -1,0 +1,4 @@
+Aplikasi Kasir Berbasis Web 
+
+username : admin
+password : 1234
